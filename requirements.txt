@@ -1,0 +1,8 @@
+asciimatics==1.15.0
+iniconfig==2.0.0
+packaging==24.0
+pillow==10.3.0
+pluggy==1.4.0
+pyfiglet==1.0.2
+pytest==8.1.1
+wcwidth==0.2.13
