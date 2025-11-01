@@ -131,3 +131,6 @@ dmypy.json
 # Other files
 temp.py
 empty.py
+
+# Project folders
+graphic_arts/
